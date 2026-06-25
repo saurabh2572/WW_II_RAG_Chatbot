@@ -1,0 +1,4 @@
+langchain 
+langgraph
+PyPDF2
+streamlit
